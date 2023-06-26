@@ -8,6 +8,7 @@ To run this application, ensure that you have the Tkinter library installed. Tki
 
 ```bash
 pip install python-tk
+bash```
 
 ## Python Version
 
