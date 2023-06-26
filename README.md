@@ -23,7 +23,7 @@ Open a terminal or command prompt and navigate to the project directory.
 Run the main application file:
 
 ```bash
-python app.py
+python main.py
 ```
 The Tkinter quiz app will launch, and you can start using it to take quizzes.
 
