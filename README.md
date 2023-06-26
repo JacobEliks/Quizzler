@@ -8,3 +8,9 @@ To run this application, ensure that you have the Tkinter library installed. Tki
 
 ```bash
 pip install python-tk
+
+## Python Version
+
+This application was developed and tested with Python 3.11. Make sure you have Python 3.11 (or a compatible version) installed on your system before running the app.
+
+If you need to install Python, you can download it from the official Python website: https://www.python.org/downloads/
